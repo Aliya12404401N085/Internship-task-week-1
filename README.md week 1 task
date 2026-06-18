@@ -29,3 +29,10 @@ Tools Used
 - Python
 - Pandas
 - Scikit-learn
+## Output Files
+
+- titanic.csv
+- processed_dataset.csv
+- feature_engineering.py
+- feature_engineering.ipynb
+- preprocessing_report.md
